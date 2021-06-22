@@ -1,1 +1,1 @@
-# OS-LAB Programs of 2-2 
+# OPERATING - SYSTEMS LAB Programs of 2-2 
